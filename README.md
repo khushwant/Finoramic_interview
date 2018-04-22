@@ -1,0 +1,2 @@
+# Finoramic_interviewbit_codes
+Interviewbit code
