@@ -1,2 +1,2 @@
 # Finoramic_interviewbit_codes
-Interviewbit code
+Repository contains codes and screenshots containing result of submissions for Finoramic Test.
